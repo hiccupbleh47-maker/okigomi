@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "okibot",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": "okegomi.aternos.me",
